@@ -1,0 +1,11 @@
+Student ID,Name,Department,Semester,Subject 1,Subject 2,Subject 3
+101,Rahul,Computer Science,1,78,82,69
+102,Priya,Computer Science,1,91,87,94
+103,Amit,Mathematics,1,65,71,68
+104,Sneha,Physics,2,84,79,88
+105,Arjun,Computer Science,2,73,76,81
+106,Ananya,Mathematics,2,89,92,85
+107,Rohan,Physics,1,62,68,74
+108,Neha,Computer Science,3,95,90,93
+109,Vikram,Mathematics,3,77,83,79
+110,Ishita,Physics,2,86,81,90

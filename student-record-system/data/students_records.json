@@ -1,0 +1,47 @@
+[
+  {
+    "Student ID": 101,
+    "Name": "Rahul",
+    "Department": "Computer Science",
+    "Semester": 1,
+    "Math": 78,
+    "Phy": 82,
+    "Chem": 69
+  },
+  {
+    "Student ID": 102,
+    "Name": "Priya",
+    "Department": "Computer Science",
+    "Semester": 1,
+    "Math": 91,
+    "Phy": 87,
+    "Chem": 94
+  },
+  {
+    "Student ID": 103,
+    "Name": "Amit",
+    "Department": "Mathematics",
+    "Semester": 1,
+    "Math": 65,
+    "Phy": 71,
+    "Chem": 68
+  },
+  {
+    "Student ID": 104,
+    "Name": "Sneha",
+    "Department": "Physics",
+    "Semester": 2,
+    "Math": 84,
+    "Phy": 79,
+    "Chem": 88
+  },
+  {
+    "Student ID": 105,
+    "Name": "Arjun",
+    "Department": "Computer Science",
+    "Semester": 2,
+    "Math": 73,
+    "Phy": 76,
+    "Chem": 81
+  }
+]
